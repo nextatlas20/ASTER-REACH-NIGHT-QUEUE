@@ -1,0 +1,14 @@
+request_id,program,target,band,duration_min,priority
+OR-101,Deep Map,Aster Nadir,X,40,1
+OR-102,Pulse Watch,Beacon Drift,L,30,2
+OR-103,Dust Survey,Cygnus Arc,S,50,1
+OR-104,Jet Census,Delta Veil,X,30,3
+OR-105,Cold Gas,Echo Rim,L,40,2
+OR-106,Timing Net,Fenix Knot,S,20,1
+OR-107,Transient Scan,Gaia Spur,X,50,2
+OR-108,Line Atlas,Helix Gate,L,20,3
+OR-109,Calibration,Iris Field,L,20,2
+OR-109,Calibration,Juniper Field,L,30,2
+OR-110,Wide Field,Kestrel Cloud,K,20,1
+BAD-11,Legacy Sweep,Lumen Patch,X,20,1
+OR-111,Fast Sample,Mosaic Edge,S,25,2

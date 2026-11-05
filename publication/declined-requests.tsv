@@ -1,0 +1,3 @@
+request_id	program	target	band	duration_min	priority	reason
+OR-105	Cold Gas	Echo Rim	L	40	2	NO_SLOT
+OR-104	Jet Census	Delta Veil	X	30	3	NO_SLOT

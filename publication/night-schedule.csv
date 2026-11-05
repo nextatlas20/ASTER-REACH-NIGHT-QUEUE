@@ -1,0 +1,7 @@
+request_id,program,target,band,start,end,duration_min,priority
+OR-102,Pulse Watch,Beacon Drift,L,20:00,20:30,30,2
+OR-103,Dust Survey,Cygnus Arc,S,20:30,21:20,50,1
+OR-101,Deep Map,Aster Nadir,X,21:20,22:00,40,1
+OR-106,Timing Net,Fenix Knot,S,22:00,22:20,20,1
+OR-107,Transient Scan,Gaia Spur,X,22:20,23:10,50,2
+OR-108,Line Atlas,Helix Gate,L,23:10,23:30,20,3
